@@ -4,12 +4,28 @@
 + [C++ Primer第五版中文版.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/c++/C++%20Primer第五版中文版.pdf)
 + [Effective+C++中文版(第三版).pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/c++/Effective+C++中文版(第三版).pdf)
 + [STL源码剖析简体中文版+侯捷+著.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/c++/STL源码剖析简体中文版+侯捷+著.pdf)
++ [[图灵程序设计丛书].C++性能优化指南.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/c++/[图灵程序设计丛书].C++性能优化指南.pdf)
 + [深度探索C++对象模型（清晰版）.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/c++/深度探索C++对象模型（清晰版）.pdf)
+## CTF
++ [CTF特训营.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/CTF/CTF特训营.pdf)
+## python
++ [[图灵程序设计丛书].Python网络编程攻略.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/python/[图灵程序设计丛书].Python网络编程攻略.pdf)
++ [[图灵程序设计丛书].流畅的Python.revise11.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/python/[图灵程序设计丛书].流畅的Python.revise11.pdf)
++ [[图灵程序设计丛书].精通Python设计模式.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/python/[图灵程序设计丛书].精通Python设计模式.pdf)
++ [[异步图书].Python核心编程.第3版.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/python/[异步图书].Python核心编程.第3版.pdf)
++ [[异步图书].Python高性能编程.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/python/[异步图书].Python高性能编程.pdf)
 ## 操作系统
 + [鸟哥的私房菜.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/操作系统/鸟哥的私房菜.pdf)
 ## 数据挖掘
++ [[图灵程序设计丛书].干净的数据：数据清洗入门与实践.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/数据挖掘/[图灵程序设计丛书].干净的数据：数据清洗入门与实践.pdf)
 + [集体智慧编程中文版.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/数据挖掘/集体智慧编程中文版.pdf)
 ## 机器学习
++ [[图灵程序设计丛书].Python机器学习基础教程.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/[图灵程序设计丛书].Python机器学习基础教程.pdf)
++ [[图灵程序设计丛书].Python机器学习经典实例.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/[图灵程序设计丛书].Python机器学习经典实例.pdf)
++ [[图灵程序设计丛书].Python计算机视觉编程.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/[图灵程序设计丛书].Python计算机视觉编程.pdf)
++ [[图灵程序设计丛书].TensorFlow深度学习.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/[图灵程序设计丛书].TensorFlow深度学习.pdf)
++ [[异步图书].Python机器学习实践指南.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/[异步图书].Python机器学习实践指南.pdf)
++ [[异步图书].Python机器学习：预测分析核心算法.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/[异步图书].Python机器学习：预测分析核心算法.pdf)
 + [图解机器学习.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/图解机器学习.pdf)
 + [李宏毅—1天搞懂深度学习.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/机器学习/李宏毅—1天搞懂深度学习.pdf)
 ## 校招资料
@@ -43,6 +59,7 @@
 + [重构.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/校招资料/重构.pdf)
 + [面向对象思想.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/校招资料/面向对象思想.pdf)
 ## 算法
++ [[图灵原创].算法的乐趣.revise7.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/算法/[图灵原创].算法的乐趣.revise7.pdf)
 + [[算法（第四版）.中文版.图灵程序设计丛书]Algorithms.-.Fourth.Edition.谢路云.影印版（高清）.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/算法/[算法（第四版）.中文版.图灵程序设计丛书]Algorithms.-.Fourth.Edition.谢路云.影印版（高清）.pdf)
 + [算法导论中文版.pdf](http://asahimoon.gitee.io/pdfviwer/web/viwer.html?file=pdf/算法/算法导论中文版.pdf)
 ## 计算机网络
